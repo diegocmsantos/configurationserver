@@ -7,3 +7,4 @@ spring:
         git:
           uri: https://github.com/diegocmsantos/config-repo
           searchPaths: licensingservice
+
